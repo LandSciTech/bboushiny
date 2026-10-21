@@ -59,7 +59,7 @@ issue to continue.
 
 The app tries multiple values for the model thinning and checks after each run
 to determine if the model converged. As thinning increases the run time for the 
-model will increase. A pop up box will appear if the model does not converge and will direct you to use [bboutools](https://poissonconsulting.github.io/bboutools/).
+model will increase. A pop up box will appear if the model does not converge and will direct you to use [bboutools](https://LandSciTech.github.io/bboutools/).
 
 Population growth cannot be calculated in the app unless both the survival and 
 recruitment models converge. 
@@ -76,4 +76,4 @@ when the app is performing a task in the background.
 
 **How to report a problem**
 
-Post an issue in the [GitHub Repository](https://github.com/poissonconsulting/bboushiny/issues).
+Post an issue in the [GitHub Repository](https://github.com/LandSciTech/bboushiny/issues).
