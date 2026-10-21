@@ -4,7 +4,7 @@
 
 - **[Ayla
   Pearson](https://www.poissonconsulting.ca/author/ayla-pearson/)**.
-  Author, maintainer. [](https://orcid.org/0000-0001-7388-1222)
+  Author. [](https://orcid.org/0000-0001-7388-1222)
 
 - **[Joe
   Thorley](https://www.poissonconsulting.ca/author/joe-thorley/)**.
@@ -14,21 +14,24 @@
   Dalgarno](https://www.poissonconsulting.ca/author/seb-dalgarno/)**.
   Contributor. [](https://orcid.org/0000-0002-3658-4517)
 
+- **Sarah Endicott**. Maintainer.  
+  Took over package maintenance October 2026
+
 - **Province of Alberta**. Copyright holder.
 
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/poissonconsulting/bboushiny/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/LandSciTech/bboushiny/blob/main/DESCRIPTION)
 
 Pearson A (2026). *bboushiny: Shiny App for Analysing Boreal Caribou
 Surival, Recruitment and Lambda*. R package version 0.3.1,
-<https://poissonconsulting.github.io/bboushiny/>.
+<https://LandSciTech.github.io/bboushiny/>.
 
     @Manual{,
       title = {bboushiny: Shiny App for Analysing Boreal Caribou Surival, Recruitment and Lambda},
       author = {Ayla Pearson},
       year = {2026},
       note = {R package version 0.3.1},
-      url = {https://poissonconsulting.github.io/bboushiny/},
+      url = {https://LandSciTech.github.io/bboushiny/},
     }
